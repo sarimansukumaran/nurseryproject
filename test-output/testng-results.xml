@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-27T20:43:17 IST" name="Default suite" finished-at="2024-02-27T20:46:08 IST" duration-ms="170877">
+    <groups>
+    </groups>
+    <test started-at="2024-02-27T20:43:17 IST" name="Default test" finished-at="2024-02-27T20:46:08 IST" duration-ms="170877">
+      <class name="test.NurseryliveTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.NurseryliveTest@7526515b]" started-at="2024-02-27T20:43:17 IST" name="setup" finished-at="2024-02-27T20:45:38 IST" duration-ms="141396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test3()[pri:0, instance:test.NurseryliveTest@7526515b]" started-at="2024-02-27T20:45:38 IST" name="test3" finished-at="2024-02-27T20:46:08 IST" duration-ms="29378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- test.NurseryliveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
